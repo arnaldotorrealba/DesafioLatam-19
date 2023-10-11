@@ -15,7 +15,7 @@ Desafío que pone a prueba el manejo de estados de componentes usando React.js y
 
 - React.js
 - Vite
-- JavaScript, CSS, HTML
+- JavaScript, CSS, HTML.
 
 ## 📸 Vista previa
 
